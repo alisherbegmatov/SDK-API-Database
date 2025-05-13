@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Stripe API",
+    "purpose": "Payment processing for e-commerce platforms",
+    "version": "v3.0.0",
+    "business_entity": "Stripe, Inc.",
+    "documentation": "https://stripe.com/docs/api",
+    "integration_details": "To integrate Stripe, use their official SDK and follow the setup guide linked above.",
+    "supported_platforms": "Web, iOS, Android",
+    "license": "Commercial"
+  },
+  {
+    "name": "Twilio API",
+    "purpose": "Cloud communications platform for SMS, voice, and video.",
+    "version": "v4.5.0",
+    "business_entity": "Twilio, Inc.",
+    "documentation": "https://www.twilio.com/docs/usage/api",
+    "integration_details": "Twilio provides SDKs for many platforms. Use the integration guides for setup.",
+    "supported_platforms": "Web, iOS, Android",
+    "license": "Commercial"
+  },
+  {
+    "name": "Firebase SDK",
+    "purpose": "Backend platform offering authentication, database, analytics.",
+    "version": "v9.6.0",
+    "business_entity": "Google",
+    "documentation": "https://firebase.google.com/docs",
+    "integration_details": "Use the official Firebase SDK for integration with web or mobile apps.",
+    "supported_platforms": "Web, iOS, Android",
+    "license": "Commercial (Free Tier available)"
+  }
+]

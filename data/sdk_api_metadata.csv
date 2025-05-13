@@ -1,0 +1,7 @@
+name,supported_platforms,license
+Stripe API,"Web, iOS, Android",Commercial
+Twilio API,"Web, iOS, Android",Commercial
+Firebase SDK,"Web, iOS, Android","Commercial (Free Tier available)"
+Google Maps API,"Web, iOS, Android",Commercial
+Slack API,"Web, iOS, Android",Commercial
+SendGrid API,"Web",Commercial
