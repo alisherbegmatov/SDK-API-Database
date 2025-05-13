@@ -2,6 +2,6 @@ name,version
 Stripe API,v3.0.0
 Twilio API,v4.5.0
 Firebase SDK,v9.6.0
-Google Maps API,v3.44
-Slack API,v2.0.0
-SendGrid API,v7.5.0
+Google Maps API,v3.55
+Slack API,v1.0
+SendGrid API,v3

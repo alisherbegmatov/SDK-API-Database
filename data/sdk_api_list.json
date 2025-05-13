@@ -28,5 +28,35 @@
     "integration_details": "Use the official Firebase SDK for integration with web or mobile apps.",
     "supported_platforms": "Web, iOS, Android",
     "license": "Commercial (Free Tier available)"
+  },
+  {
+    "name": "Google Maps API",
+    "purpose": "Provides mapping, geolocation, and places data services.",
+    "version": "v3.55",
+    "business_entity": "Google",
+    "documentation": "https://developers.google.com/maps/documentation",
+    "integration_details": "Use Google Maps Platform SDKs and APIs as per documentation for integration.",
+    "supported_platforms": "Web, iOS, Android",
+    "license": "Commercial"
+  },
+  {
+    "name": "Slack API",
+    "purpose": "Messaging platform API for bots, notifications, and integrations.",
+    "version": "v1.0",
+    "business_entity": "Slack Technologies, LLC",
+    "documentation": "https://api.slack.com/",
+    "integration_details": "Use Slack’s Web and Events APIs or SDKs to build integrations.",
+    "supported_platforms": "Web, iOS, Android",
+    "license": "Commercial"
+  },
+  {
+    "name": "SendGrid API",
+    "purpose": "Email delivery and marketing API for transactional email services.",
+    "version": "v3",
+    "business_entity": "Twilio, Inc.",
+    "documentation": "https://docs.sendgrid.com/api-reference/",
+    "integration_details": "Integrate via SendGrid’s HTTP API or official libraries.",
+    "supported_platforms": "Web",
+    "license": "Commercial"
   }
 ]
